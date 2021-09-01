@@ -4,6 +4,7 @@ HP 暗影精灵4 配置：
 CPU：i5 8300H & UHD630  
 显卡：NVIDIA GeForce GTX1050Ti & 不工作已屏蔽  
 声卡：Realtek ALC 295  
+主板：惠普84DA & 英特尔HM370芯片组   
 以太网卡：Realtek RTL8111  
 无线网卡：Intel Wireless-AC 9560  
 蓝牙：英特尔无线蓝牙  
