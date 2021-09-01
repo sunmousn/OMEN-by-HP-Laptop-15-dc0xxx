@@ -1,4 +1,4 @@
-# omen-by-hp-15-dc0000-laptop
+# OMEN by HP Laptop 15-dc0xxx
 适用于 HP OMEN 15 的 OpenCore  
 HP 暗影精灵4 配置：  
 CPU：i5 8300H & UHD630  
