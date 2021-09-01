@@ -5,7 +5,7 @@ CPU：i5 8300H & UHD630
 显卡：NVIDIA GeForce GTX1050Ti & 不工作已屏蔽  
 声卡：Realtek ALC 295  
 以太网卡：Realtek RTL8111  
-无线网卡：Intel Wireless-AC 9560 
+无线网卡：Intel Wireless-AC 9560  
 蓝牙：英特尔无线蓝牙  
 内存：Kingston DDR4 2400MHz 8+8G  
 硬盘：NVMe 西数 Black SN750 & SATA SGHT 1T  
