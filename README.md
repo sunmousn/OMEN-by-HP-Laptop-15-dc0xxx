@@ -32,4 +32,6 @@ HP 暗影精灵4 配置：
 具体操作：系统偏好设置-键盘-快捷键-显示器 & 如果没有看到显示器选项就外接一下USB键盘就有了  
 * 睡眠唤醒  
 
-<img width="1955" alt="iShot2021-10-03 15 16 35" src="https://user-images.githubusercontent.com/35004454/135744150-78e526ba-08df-4c2d-a562-4f54c8a79d6a.png">
+
+<img width="1716" alt="iShot2021-10-03 15 28 52" src="https://user-images.githubusercontent.com/35004454/135744410-b5f4c3ba-7f0c-41a9-b789-8d5a554e0fd6.png">
+
