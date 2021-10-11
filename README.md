@@ -8,7 +8,7 @@ HP 暗影精灵4 配置：
 * 主板：惠普84DA & 英特尔HM370芯片组   
 * 以太网卡：Realtek RTL8111  
 * 无线网卡：Intel Wireless-AC 9560 & Broadcom BCM94352Z  
-* 蓝牙：英特尔无线蓝牙  
+* 蓝牙：英特尔无线蓝牙 & Broadcom 20702A3    
 * 内存：Kingston DDR4 2400MHz 8+8G  
 * 硬盘：NVMe 西数 Black SN750 & SATA SGHT 1T  
  
