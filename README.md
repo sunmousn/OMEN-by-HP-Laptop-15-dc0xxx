@@ -28,7 +28,7 @@ HP 暗影精灵4 配置：
 * 电池信息和原生电源管理  
 * Type-C转HDMI输出显示，由于HDMI音频输出跟睡眠唤醒有冲突，已禁用音频输出，如需开启请查看v4.0版本说明
 
-注意：由于更换了Broadcom无线网卡，后发行版本不再提供intel无线网卡驱动，intel无线网卡的同学请下载v3.0版本，驱动如下  
+注意：由于更换了Broadcom无线网卡，v4.0发行版本起不再提供intel无线网卡驱动，intel无线网卡的同学请下载v3.0版本，驱动如下  
 AirportItlwm.kext  
 IntelBluetoothFirmware.kext  
 IntelBluetoothInjector.kext  
