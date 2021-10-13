@@ -37,6 +37,7 @@ USBPorts.kext
 存在问题：  
 * 亮度组合键无法使用，可通过设置快捷键F1F2来调节或者手动调节  
 具体操作：系统偏好设置-键盘-快捷键-显示器 & 如果没有看到显示器选项就外接一下USB键盘就有了  
-* USB端口定制修正：(v4.0版本已修正)打开Hackintool-USB-点击清除然后刷新，如连接器有USB2就将连接器里的USB2改为USB3然后导出USBPorts.kext替换即可  
+* USB端口定制修正：(v4.0版本已修正)打开Hackintool-USB-点击清除然后刷新，如连接器有USB2就将连接器里的USB2改为USB3然后导出USBPorts.kext替换即可，参考如下  
+* <img width="416" alt="图片 1" src="https://user-images.githubusercontent.com/35004454/137056256-d4f0e2f9-d630-483b-aed5-eb45e88ad795.png">
 <img width="1716" alt="iShot2021-10-03 15 28 52" src="https://user-images.githubusercontent.com/35004454/135744410-b5f4c3ba-7f0c-41a9-b789-8d5a554e0fd6.png">
 
