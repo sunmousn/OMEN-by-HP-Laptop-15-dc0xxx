@@ -1,1 +1,42 @@
-Test
+# OMEN by HP Laptop 15-dc0xxx   
+## [Unlock CFG LOCK](https://github.com/sunmousn/HP-OMEN-CFG-LOCK)  
+Hardware：   
+* CPU: i5 8300H & UHD630
+* Graphics card: NVIDIA GeForce GTX1050Ti 
+* Sound card: Realtek ALC 295
+* Motherboard: HP 84DA & Intel HM370 chipset
+* Ethernet card: Realtek RTL8111
+* Wireless network card: Intel Wireless-AC 9560 & Broadcom BCM94352Z
+* Bluetooth: Intel Wireless Bluetooth & Broadcom 20702A3
+* Memory: Kingston DDR4 2400MHz 8+8G
+* Hard Disk: NVMe Western Digital Black SN750 & SATA SGHT 1T    
+
+Can work normally:    
+* NVRAM
+* Camera  
+* Ethernet
+* touchpad    
+* Core graphics card
+* Sleep wake
+* FN key combination
+* SD card reader
+* Keyboard backlight
+* USB port customization
+* Wi-Fi and Bluetooth
+* Speaker and microphone
+* Battery information and native power management   
+* Type-C to HDMI output display, due to the conflict between HDMI audio output and sleep wake-up, audio output has been disabled, if you need to enable it, please refer to the v4.0 version description
+
+Note: Due to the replacement of the Broadcom wireless network card, the intel wireless network card driver will no longer be provided from the v4.0 release version. For the intel wireless network, please download the v3.0 version to extract, the driver is as follows
+AirportItlwm.kext
+IntelBluetoothFirmware.kext
+IntelBluetoothInjector.kext
+USBPorts.kext
+
+Problem:
+* The brightness combination key cannot be used, it can be adjusted by setting the shortcut key F1F2 or manually
+Specific operation: System Preferences-Keyboard-Shortcuts-Display & If you don’t see the display option, just connect an external USB keyboard.
+* USB port customization correction: (v4.0 version has been corrected) Open Hackintool-USB-click clear and refresh, if the connector has USB2, change the USB2 in the connector to USB3 and then export USBPorts.kext to replace it, refer to the following
+* <img width="791" alt="WX20211013-103426@2x" src="https://user-images.githubusercontent.com/35004454/137057221-c68352b0-81e7-4f25-8690-7e4a88d7707b.png">
+
+<img width="1716" alt="iShot2021-10-03 15 28 52" src="https://user-images.githubusercontent.com/35004454/135744410-b5f4c3ba-7f0c-41a9-b789-8d5a554e0fd6.png">
