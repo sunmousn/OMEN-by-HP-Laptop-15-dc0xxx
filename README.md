@@ -1,6 +1,5 @@
 # OMEN by HP Laptop 15-dc0xxx
-# [解锁CFG LOCK](https://github.com/sunmousn/HP-OMEN-CFG-LOCK)
-## 适用于 HP OMEN 15 的 OpenCore  
+## [解锁CFG LOCK](https://github.com/sunmousn/HP-OMEN-CFG-LOCK)  
 HP 暗影精灵4 配置： 
 * CPU：i5 8300H & UHD630  
 * 显卡：NVIDIA GeForce GTX1050Ti & 不工作已屏蔽  
