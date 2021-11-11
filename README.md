@@ -11,7 +11,7 @@ HP 暗影精灵4 配置：
 * 内存：Kingston DDR4 2400MHz 8+8G  
 * 硬盘：NVMe Western Digital Black SN750 & SATA SGHT 1T  
  
-可正常工作：  
+正常工作：  
 * NVRAM  
 * 摄像头  
 * 以太网  
