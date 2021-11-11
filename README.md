@@ -25,17 +25,17 @@ HP 暗影精灵4 配置：
 * 无线上网和蓝牙  
 * 扬声器和麦克风  
 * 电池信息和原生电源管理  
-* Type-C转HDMI输出显示，由于HDMI音频输出跟睡眠唤醒有冲突，已禁用音频输出，如需开启请查看v4.0版本说明
+* Type-C转HDMI输出显示，由于HDMI音频输出跟睡眠唤醒有冲突，已禁用音频输出，如需开启请查看v4.0版本说明 
+
+无法工作：  
+* NVIDIA GeForce GTX1050Ti 已屏蔽  
+* HDMI接口  接的独显无解  
 
 注意：由于更换了Broadcom无线网卡，v4.0发行版本起不再提供intel无线网卡驱动，intel无线网请下载v3.0版本提取，驱动如下  
 AirportItlwm.kext  
 IntelBluetoothFirmware.kext  
 IntelBluetoothInjector.kext  
-USBPorts.kext  
-
-无法工作：  
-* NVIDIA GeForce GTX1050Ti 已屏蔽  
-* HDMI接口  接的独显无解  
+USBPorts.kext 
 
 存在问题：  
 * 亮度组合键无法使用，可通过设置快捷键F1F2来调节或者手动调节  
