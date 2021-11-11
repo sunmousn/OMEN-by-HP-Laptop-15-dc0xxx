@@ -33,7 +33,10 @@ IntelBluetoothFirmware.kext
 IntelBluetoothInjector.kext  
 USBPorts.kext  
 
-无法工作：NVIDIA GeForce GTX1050Ti 已屏蔽  
+无法工作：  
+* NVIDIA GeForce GTX1050Ti 已屏蔽  
+* HDMI接口  接的独显无解  
+
 存在问题：  
 * 亮度组合键无法使用，可通过设置快捷键F1F2来调节或者手动调节  
 具体操作：系统偏好设置-键盘-快捷键-显示器 & 如果没有看到显示器选项就外接一下USB键盘就有了  
