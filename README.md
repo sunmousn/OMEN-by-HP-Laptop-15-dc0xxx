@@ -32,10 +32,10 @@ HP 暗影精灵4 配置：
 * HDMI接口  接的独显无解  
 
 注意：由于更换了Broadcom无线网卡，v4.0发行版本起不再提供intel无线网卡驱动，intel无线网请下载v3.0版本提取，驱动如下  
-AirportItlwm.kext  
-IntelBluetoothFirmware.kext  
-IntelBluetoothInjector.kext  
-USBPorts.kext 
+* AirportItlwm.kext  
+* IntelBluetoothFirmware.kext  
+* IntelBluetoothInjector.kext  
+* USBPorts.kext 
 
 存在问题：  
 * 亮度组合键无法使用，可通过设置快捷键F1F2来调节或者手动调节  
