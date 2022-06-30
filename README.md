@@ -45,3 +45,5 @@ HP 暗影精灵4 配置：
 
 <img width="1716" alt="iShot2021-10-03 15 28 52" src="https://user-images.githubusercontent.com/35004454/135744410-b5f4c3ba-7f0c-41a9-b789-8d5a554e0fd6.png">
 
+<img width="1680" alt="截屏2022-06-30 20 18 45" src="https://user-images.githubusercontent.com/35004454/176708910-5863445b-295e-4c43-ac96-abbe63a3bb0e.png">
+
